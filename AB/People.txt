@@ -1,0 +1,60 @@
+
+First name: Richard
+Last name: Lee
+Phone number: 344-33-11
+Occupation: Developer
+Course number : 1
+--------------------------
+
+First name: Oliver
+Last name: Chan
+Phone number: 111-11-11
+Occupation: Engineer
+Course number : 4
+--------------------------
+
+First name: Sarah
+Last name: Brown
+Phone number: 333-33-33
+Occupation: Teacher
+Course number : 3
+--------------------------
+
+First name: Leonardo
+Last name: Da Vinci
+Phone number: 456-32-11
+Occupation: Professor
+
+Students list: 
+
+First name: Richard
+Last name: Lee
+Phone number: 344-33-11
+Occupation: Developer
+Course number : 1
+
+First name: Oliver
+Last name: Chan
+Phone number: 111-11-11
+Occupation: Engineer
+Course number : 4
+
+First name: Sarah
+Last name: Brown
+Phone number: 333-33-33
+Occupation: Teacher
+Course number : 3
+
+First name: John
+Last name: Doe
+Phone number: 123-45-67
+Occupation: Astronom
+Course number : 5
+--------------------------
+
+First name: John
+Last name: Doe
+Phone number: 123-45-67
+Occupation: Astronom
+Course number : 5
+--------------------------
